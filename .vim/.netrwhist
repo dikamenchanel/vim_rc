@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/dikamen/Documents/ApiWork/uex-finance-back-log_data/app/Console/Commands'
+let g:netrw_dirhist_5='/home/dikamen/Documents/ApiWork/uex-finance-back-log_data/app/Console'
+let g:netrw_dirhist_4='/home/dikamen/Documents/ApiWork/uex-finance-back-log_data/app'
+let g:netrw_dirhist_3='/home/dikamen/Documents/ApiWork/uex-finance-back-log_data/app/Http'
+let g:netrw_dirhist_2='/home/dikamen/Documents/ApiWork/uex-finance-back-log_data/app/Http/Controllers'
+let g:netrw_dirhist_1='/home/dikamen/Documents/ApiWork/uex-finance-back-log_data/app/Http'
+let g:netrw_dirhist_0='/home/dikamen/Documents/ApiWork/uex-finance-back-log_data/app'
+let g:netrw_dirhist_9='/home/dikamen/Documents/ApiWork/uex-finance-back-log_data/app/Models'
+let g:netrw_dirhist_8='/home/dikamen/Documents/ApiWork/uex-finance-back-log_data/app'
+let g:netrw_dirhist_7='/home/dikamen/Documents/ApiWork/uex-finance-back-log_data/app/Console'
